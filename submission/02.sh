@@ -10,4 +10,3 @@ bitcoin-cli -regtest createrawtransaction '[{"txid":"8432ddfa618de25bd8838e3e16c
 
 
 
-

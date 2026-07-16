@@ -2,4 +2,4 @@
 
 bitcoin-cli -regtest createwallet "btrustwallet"
 
--
+
